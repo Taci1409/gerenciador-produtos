@@ -4,7 +4,7 @@ server.port=8080
 
 spring.datasource.url=jdbc:mysql://localhost:3306/gerenciador_produtos
 spring.datasource.username=root
-spring.datasource.password=Carol#141208
+spring.datasource.password= Senha1234
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
